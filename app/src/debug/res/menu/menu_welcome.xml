@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+<!--    <item-->
+<!--        android:id="@+id/tripHistory"-->
+<!--        android:icon="@drawable/ic_settings"-->
+<!--        android:title="Trip History"-->
+<!--        app:showAsAction="never"-->
+<!--        android:orderInCategory="100"/>-->
+
+<!--    <item-->
+<!--        android:id="@+id/wayBill"-->
+<!--        android:title="Way Bill"-->
+<!--        app:showAsAction="never"-->
+<!--        android:orderInCategory="101"/>-->
+
+    <item
+        android:id="@+id/updateInformation"
+        android:title="Update Information"
+        app:showAsAction="never"
+        android:orderInCategory="100"/>
+
+    <item
+        android:id="@+id/changePassword"
+        android:title="Change Password"
+        app:showAsAction="never"
+        android:orderInCategory="101"/>
+
+<!--    <item-->
+<!--        android:id="@+id/help"-->
+<!--        android:title="Help"-->
+<!--        app:showAsAction="never"-->
+<!--        android:orderInCategory="104"/>-->
+
+<!--    <item-->
+<!--        android:id="@+id/setting"-->
+<!--        android:title="Setting"-->
+<!--        app:showAsAction="never"-->
+<!--        android:orderInCategory="105"/>-->
+    <item
+        android:id="@+id/signOut"
+        android:title="Sign Out"
+        app:showAsAction="never"
+        android:orderInCategory="102"/>
+
+
+</menu>

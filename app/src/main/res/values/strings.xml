@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RideShareDriver</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="google_direction_api">AIzaSyAOxC8ifFtURZ3iMRkmP0P0TxNpRq19GNA</string>
+    <string name="title_activity_driver_tracking">Map</string>
+</resources>
